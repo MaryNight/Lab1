@@ -1,0 +1,633 @@
+{
+  "title": "Портал репетиторства",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Сущности",
+      "formatVersion": 2,
+      "links": [
+        {
+          "ideaIdFrom": 1,
+          "ideaIdTo": 8,
+          "attr": {
+            "style": {
+              "color": "#FF0000",
+              "lineStyle": "dashed"
+            }
+          }
+        }
+      ],
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "СУБД заказов",
+          "id": 28,
+          "attr": {
+            "position": [
+              95,
+              -442,
+              11
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Курс (предмет)",
+              "id": 23,
+              "attr": {
+                "style": {},
+                "position": [
+                  267,
+                  -36,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Название предмета",
+                  "id": 31,
+                  "attr": {
+                    "position": [
+                      66,
+                      -87,
+                      5
+                    ],
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Класс ученика",
+                  "id": 32,
+                  "attr": {
+                    "position": [
+                      163,
+                      -28,
+                      4
+                    ],
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Стоимость занятия",
+                  "id": 33,
+                  "attr": {
+                    "position": [
+                      176,
+                      25,
+                      3
+                    ],
+                    "style": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Пользователь",
+          "id": 24,
+          "attr": {
+            "position": [
+              252,
+              -12,
+              10
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "3": {
+              "title": "Преподаватель",
+              "id": 27,
+              "attr": {
+                "style": {},
+                "position": [
+                  627,
+                  -453.4337739863513,
+                  6
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "ФИО",
+                  "id": 34,
+                  "attr": {
+                    "position": [
+                      126,
+                      -166,
+                      1
+                    ],
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Фото",
+                  "id": 35,
+                  "attr": {
+                    "position": [
+                      177,
+                      -123,
+                      2
+                    ],
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Информация",
+                  "id": 36,
+                  "attr": {
+                    "position": [
+                      209,
+                      -72,
+                      3
+                    ],
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Предметы преподавания",
+                  "id": 37,
+                  "attr": {
+                    "position": [
+                      188,
+                      -3,
+                      4
+                    ],
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Расписание",
+                  "id": 38,
+                  "attr": {
+                    "position": [
+                      240,
+                      60,
+                      5
+                    ],
+                    "style": {}
+                  }
+                },
+                "6": {
+                  "title": "Стоимость занятия",
+                  "id": 39,
+                  "attr": {
+                    "position": [
+                      195,
+                      121,
+                      6
+                    ],
+                    "style": {}
+                  }
+                },
+                "7": {
+                  "title": "Телефон",
+                  "id": 40,
+                  "attr": {
+                    "position": [
+                      208,
+                      163,
+                      9
+                    ],
+                    "style": {}
+                  }
+                },
+                "8": {
+                  "title": "Адрес",
+                  "id": 41,
+                  "attr": {
+                    "position": [
+                      184,
+                      208,
+                      10
+                    ],
+                    "style": {}
+                  }
+                },
+                "9": {
+                  "title": "e-mail",
+                  "id": 48,
+                  "attr": {
+                    "position": [
+                      136,
+                      265,
+                      11
+                    ],
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Ученик",
+              "id": 25,
+              "attr": {
+                "style": {},
+                "position": [
+                  379,
+                  38.5662260136487,
+                  10
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Адрес",
+                  "id": 49
+                },
+                "2": {
+                  "title": "Телефон",
+                  "id": 50
+                },
+                "3": {
+                  "title": "e-mail",
+                  "id": 51
+                }
+              }
+            },
+            "3.5": {
+              "title": "Администратор",
+              "id": 54,
+              "attr": {
+                "position": [
+                  363,
+                  -190.4337739863513,
+                  9
+                ],
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "e-mail",
+                  "id": 55,
+                  "attr": {
+                    "style": {},
+                    "position": [
+                      173,
+                      -38,
+                      1
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "Телефон",
+                  "id": 56,
+                  "attr": {
+                    "position": [
+                      188,
+                      22,
+                      2
+                    ],
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "ФИО",
+                  "id": 57,
+                  "attr": {
+                    "position": [
+                      188,
+                      81,
+                      3
+                    ],
+                    "style": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Банковская оплата курса",
+          "id": 58,
+          "attr": {
+            "position": [
+              772,
+              264,
+              12
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Счет репетитора",
+              "id": 59,
+              "attr": {
+                "position": [
+                  246,
+                  -66,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Счёт портала",
+              "id": 60,
+              "attr": {
+                "position": [
+                  264,
+                  4,
+                  2
+                ],
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Стоимость к оплате",
+              "id": 61,
+              "attr": {
+                "position": [
+                  236,
+                  50,
+                  3
+                ],
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Квитанция",
+              "id": 62
+            }
+          }
+        }
+      },
+      "id": 15
+    },
+    "-1": {
+      "title": "Активности",
+      "id": 67,
+      "ideas": {
+        "1": {
+          "title": "Действия пользователей",
+          "id": 68,
+          "attr": {
+            "position": [
+              104,
+              -223,
+              3
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Администратор",
+              "id": 72,
+              "attr": {
+                "position": [
+                  192,
+                  -82,
+                  1
+                ],
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Связь с учеником",
+                  "id": 73
+                },
+                "2": {
+                  "title": "Связь с преподавателем",
+                  "id": 74
+                },
+                "3": {
+                  "title": "Редакция СУБД",
+                  "id": 75,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Редактирование личной информации",
+                  "id": 84
+                }
+              }
+            },
+            "2": {
+              "title": "Ученик",
+              "id": 77,
+              "attr": {
+                "position": [
+                  201,
+                  54,
+                  2
+                ],
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Создание заказа",
+                  "id": 78
+                },
+                "2": {
+                  "title": "Редактирование заказа",
+                  "id": 79
+                },
+                "3": {
+                  "title": "Связь с администратором",
+                  "id": 80
+                },
+                "4": {
+                  "title": "Редактирование информации",
+                  "id": 83
+                }
+              }
+            },
+            "3": {
+              "title": "Преподаватель",
+              "id": 82,
+              "ideas": {
+                "1": {
+                  "title": "Подача заявок на заказы",
+                  "id": 85
+                },
+                "2": {
+                  "title": "Редактирование информации",
+                  "id": 86
+                },
+                "3": {
+                  "title": "Оплата курса",
+                  "id": 87
+                },
+                "4": {
+                  "title": "Связь с администратором",
+                  "id": 88
+                },
+                "5": {
+                  "title": "Просмотр СУБД",
+                  "id": 89
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Действия  СУБД",
+          "id": 69,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Добавление курсов",
+              "id": 90
+            },
+            "2": {
+              "title": "Добавление заявок",
+              "id": 91
+            },
+            "3": {
+              "title": "Удаление заявок",
+              "id": 92
+            },
+            "4": {
+              "title": "Редактирование заявок",
+              "id": 93
+            }
+          }
+        },
+        "3": {
+          "title": "Действия с оплатами",
+          "id": 70,
+          "attr": {
+            "position": [
+              83,
+              371,
+              4
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Выставление счёта",
+              "id": 94
+            },
+            "2": {
+              "title": "Произведение транзакции",
+              "id": 95
+            },
+            "3": {
+              "title": "Выставление электронной квитанции",
+              "id": 96
+            }
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {}
+  },
+  "links": [
+    {
+      "ideaIdFrom": 1,
+      "ideaIdTo": 8,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 25,
+      "ideaIdTo": 54,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 27,
+      "ideaIdTo": 54,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 27,
+      "ideaIdTo": 28,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 54,
+      "ideaIdTo": 28,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 27,
+      "ideaIdTo": 58,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 72,
+      "ideaIdTo": 69,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 77,
+      "ideaIdTo": 72,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 82,
+      "ideaIdTo": 72,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 82,
+      "ideaIdTo": 70,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": true
+        }
+      }
+    }
+  ]
+}
